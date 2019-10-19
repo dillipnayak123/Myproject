@@ -176,3 +176,4 @@
 	END OF TERMS AND CONDITIONS
 experimenting for automation
 experimenting for continuous  deployement
+Enjoying Devops class ut not able to remeber everything
